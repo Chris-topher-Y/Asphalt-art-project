@@ -40,3 +40,4 @@ For Mathematics, being able to caluclate how far the painter should go before le
 
 5. What SLOs did you demonstrate during completing this project?
 
+Some SLOs that were dmeonstrated during the completion of this project, were being able to create a Sub-Class, and write a method. I also had to document code, using comments, which I did by writing the affected grid line above the code affecting it.
